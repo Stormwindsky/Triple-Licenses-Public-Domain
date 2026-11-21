@@ -1,4 +1,4 @@
-# Triple-Licenses-Public-Domain
+# Triple Licenses Public Domain
 
 A standardized, ready-to-use public-domain-equivalent licensing template designed for bulk use, starter kits, and open-source project templates where attribution is not required.
 
